@@ -8,11 +8,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; &rarr; Think about how the code should work.
 
-### 2. Make it run
+### 2. Make it compile
+
+### 3. Run to see if it fails
+
+### 4. Make it run
 
 &nbsp;&nbsp;&nbsp;&nbsp; &rarr; Quickly get the code working. Make the test "Green"
 
-### 3. Make it right
+### 5. Remove duplication / Make it right
 
 &nbsp;&nbsp;&nbsp;&nbsp; &rarr; Refactor the running code to quality, proper code.
 
